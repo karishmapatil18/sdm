@@ -32,5 +32,5 @@ uppercase letter to small case and small case to uppercase.
 		}
        System.out.println(str);
 	}
-
+System.out.println(str1);
 }
