@@ -1,7 +1,7 @@
 package study.assignment2;
 
 import java.util.Scanner;
-
+//how are you kash ?
 public class conversionUC_LC {
     /*Q3.Input string from user and convert 
 uppercase letter to small case and small case to uppercase.
